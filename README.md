@@ -40,7 +40,6 @@ I'm a **Computer Engineering student at An-Najah National University** focused o
 | **Security**     | Authentication · Authorization · API Security             |
 | **Systems**      | Operating Systems · Networking · Containerization         |
 | **Hardware**     | Digital Design · Computer Architecture · Microcontrollers |
-| **Algorithms**   | Data Structures · Graphs · Dynamic Programming            |
 | **AI**           | AI Agents · RAG · LLM-based Applications                  |
 | **Documentation**| Technical Writing · LaTeX                                 |
 
