@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Baraa Afanah 👋</h1>
+<h1 align="center">Hi, I'm Bara' Afanah 👋</h1>
 
 <p align="center">
   Computer Engineering Student · Backend Developer · Competitive Programmer
@@ -21,8 +21,6 @@
 ## 👨‍💻 About Me
 
 I'm a **Computer Engineering student at An-Najah National University** focused on backend engineering and software systems.
-
-I enjoy understanding how systems work end-to-end, from logic gates and algorithms to APIs, databases, and infrastructure. I focus on fundamentals rather than specific tools, which lets me pick up any language, framework, or technology a project requires.
 
 * 🔧 Designing and building **backend systems and APIs**
 * 🗄️ Working with **relational database design** and data modeling
@@ -54,10 +52,8 @@ I enjoy understanding how systems work end-to-end, from logic gates and algorith
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -78,10 +74,9 @@ Building strong foundations in **backend engineering, systems, and software arch
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=baraafanah21&theme=github_dark&show_icons=true&hide_border=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=baraafanah21&theme=github_dark&hide_border=true&layout=compact" height="165" alt="Top languages">
+  <img src="https://github-readme-stats.shion.dev/api?username=baraafanah21&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" height="165" alt="GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baraafanah21&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=baraafanah21&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakNum=39d353&currStreakLabel=39d353&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub streak">
 </p>
