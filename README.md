@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Computer Engineering student at An-Najah National University** focused on backend engineering and software systems.
 
